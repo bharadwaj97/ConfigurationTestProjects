@@ -1,5 +1,16 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
   Main.cpp
-C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(30,5): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(64,5): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(83,5): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(104,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_TRUE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(105,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_FALSE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(117,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_TRUE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(118,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_FALSE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(139,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_TRUE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(140,5): warning C4002: too many arguments for function-like macro invocation 'EXPECT_FALSE'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(147,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nukal\source\repos\ConfigurationTestProject1\Main.cpp(147,5): warning C4305: 'argument': truncation from 'double' to 'RawType'
+          with
+          [
+              RawType=float
+          ]
   ConfigurationTestProject1.vcxproj -> C:\Users\nukal\source\repos\ConfigurationTestProject1\x64 Debug\ConfigurationTestProject1.exe
